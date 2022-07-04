@@ -1,0 +1,12 @@
+.btn{
+    background: transparent;
+    border: 1px solid;
+    outline: #282c34;
+
+}
+.succes{
+    background: green;
+}
+.danger{
+    background: red;
+}

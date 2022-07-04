@@ -21,7 +21,8 @@ const Controls=(props)=>{
 
              />
                 })}
-            <button>Order</button>
+            <button onClick={props.order}>Order</button>
+
         </div>
     )
 }
