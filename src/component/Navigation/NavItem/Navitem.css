@@ -1,0 +1,12 @@
+.nav-item{
+    align-items: center;
+    box-sizing: border-box;
+    margin: 10px;
+    height: 100%;
+}
+.nav-item a{
+
+}
+.nav-item a:hover{
+background: red;
+}
